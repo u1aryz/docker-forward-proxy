@@ -2,27 +2,27 @@
 
 Simple forward proxy.
 
-## Build
+## Install
 
 ```
-$ docker build . -t proxy-app
+$ docker pull u1aryz/forward-proxy:latest
 ```
 
-## Run
+## Quickstart
 
 - Simple
 ```
-$ docker run -p 3128:8080 proxy-app
+$ docker run -p 3128:8080 u1aryz/forward-proxy
 ```
 
 - If use basic auth
 
 ```
-$ docker run -p 3128:8080 proxy-app -user=u1aryz -pass=hogefuga
+$ docker run -p 3128:8080 u1aryz/forward-proxy -user=u1aryz -pass=hogefuga
 ```
 
 - If change container port
 
 ```
-$ docker run -p 3128:9090 proxy-app -port=9090
+$ docker run -p 3128:9090 u1aryz/forward-proxy -port=9090
 ```
