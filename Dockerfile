@@ -1,4 +1,4 @@
-FROM golang:latest as builder
+FROM golang:latest AS builder
 
 ARG TARGETARCH
 ENV CGO_ENABLED=0
