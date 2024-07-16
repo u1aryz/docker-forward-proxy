@@ -12,6 +12,5 @@ RUN make
 # runtime
 FROM gcr.io/distroless/base-debian12
 COPY --from=builder /go/src/github.com/u1aryz/docker-forward-proxy/app app
-EXPOSE 8080
 ENTRYPOINT ["/app"]
 CMD []
