@@ -1,2 +1,2 @@
 build:
-	go build -o app
+	go build -ldflags="-s -w" -o app
