@@ -10,7 +10,7 @@ COPY . .
 RUN make
 
 # runtime
-FROM alpine
+FROM gcr.io/distroless/base-debian12
 RUN apk add --no-cache ca-certificates
 COPY --from=builder /go/src/github.com/u1aryz/docker-forward-proxy/app app
 EXPOSE 8080
