@@ -34,8 +34,8 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ secrets.DOCKER_USERNAME }}/forward-proxy:latest
             ${{ secrets.DOCKER_USERNAME }}/forward-proxy:${{ env.RELEASE_VERSION }}
+            ${{ secrets.DOCKER_USERNAME }}/forward-proxy:latest
 
       - name: Log out from Docker Hub
         run: docker logout
