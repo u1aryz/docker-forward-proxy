@@ -1,8 +1,9 @@
 FROM golang:latest as builder
 
+ARG TARGETARCH
 ENV CGO_ENABLED=0
 ENV GOOS=linux
-ENV GOARCH=amd64
+ENV GOARCH=$TARGETARCH
 
 WORKDIR /go/src/github.com/u1aryz/docker-forward-proxy
 COPY . .
