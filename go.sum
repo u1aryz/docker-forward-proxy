@@ -7,4 +7,6 @@ github.com/elazarl/goproxy/ext v0.0.0-20240618083138-03be62527ccb h1:kLNFd3kaKNM
 github.com/elazarl/goproxy/ext v0.0.0-20240618083138-03be62527ccb/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
 github.com/elazarl/goproxy/ext v0.0.0-20240719135048-6ca80f564554 h1:3kA6mJtjiYG/w5A/9MKmmLocI/o2EkGMifsH3RJTse0=
 github.com/elazarl/goproxy/ext v0.0.0-20240719135048-6ca80f564554/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
+github.com/elazarl/goproxy/ext v0.0.0-20240725082028-24b50190c200 h1:Aa3BUOvcwPBJxKLEhw97P9fbLK6Zj3HqQJOCtDVi0MU=
+github.com/elazarl/goproxy/ext v0.0.0-20240725082028-24b50190c200/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
 github.com/rogpeppe/go-charset v0.0.0-20180617210344-2471d30d28b4/go.mod h1:qgYeAmZ5ZIpBWTGllZSQnw97Dj+woV0toclVaRGI8pc=
