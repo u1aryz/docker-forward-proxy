@@ -16,6 +16,8 @@ github.com/elazarl/goproxy v0.0.0-20241216204737-5d8f603c0208 h1:0VhxYcIDsGc2ww/
 github.com/elazarl/goproxy v0.0.0-20241216204737-5d8f603c0208/go.mod h1:P73liMk9TZCyF9fXG/RyMeSizmATvpvy3ZS61/1eXn4=
 github.com/elazarl/goproxy v0.0.0-20241217120900-7711dfa3811c h1:yWAGp1CjD1mQGLUsADqPn5s1n2AkGAX33XLDUgoXzyo=
 github.com/elazarl/goproxy v0.0.0-20241217120900-7711dfa3811c/go.mod h1:P73liMk9TZCyF9fXG/RyMeSizmATvpvy3ZS61/1eXn4=
+github.com/elazarl/goproxy v0.0.0-20241217194742-73b2f3f620fe h1:eVrav77feNUt3xvbnoeJW48EVf1OOlWoH+H3d8gV7gc=
+github.com/elazarl/goproxy v0.0.0-20241217194742-73b2f3f620fe/go.mod h1:3TKt+OFpElWuCtt5bphUyO97JT606j9Ffx4S2pfIcCo=
 github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
 github.com/elazarl/goproxy/ext v0.0.0-20240618083138-03be62527ccb h1:kLNFd3kaKNM3nW0+9Q5uVd8KSC+S/7rIRhOgixk4gw0=
 github.com/elazarl/goproxy/ext v0.0.0-20240618083138-03be62527ccb/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
