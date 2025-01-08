@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/elazarl/goproxy v1.2.7
-	github.com/elazarl/goproxy/ext v0.0.0-20250106225600-bb08896df283
+	github.com/elazarl/goproxy/ext v0.0.0-20250107142442-80e95ad573c8
 )
 
 require (
