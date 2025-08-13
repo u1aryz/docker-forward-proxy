@@ -2,7 +2,7 @@ module github.com/u1aryz/docker-forward-proxy
 
 go 1.23.0
 
-toolchain go1.24.6
+toolchain go1.25.0
 
 require (
 	github.com/elazarl/goproxy v1.7.2
