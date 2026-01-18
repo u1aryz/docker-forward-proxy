@@ -6,7 +6,7 @@ toolchain go1.25.6
 
 require (
 	github.com/elazarl/goproxy v1.7.2
-	github.com/elazarl/goproxy/ext v0.0.0-20260113151937-5f529678d4cf
+	github.com/elazarl/goproxy/ext v0.0.0-20260117161256-26d3e758aa11
 )
 
 require (
