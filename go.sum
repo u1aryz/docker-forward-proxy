@@ -185,6 +185,8 @@ github.com/elazarl/goproxy/ext v0.0.0-20260719220256-d435b12bc2fd h1:Z3fC9JbGOlZ
 github.com/elazarl/goproxy/ext v0.0.0-20260719220256-d435b12bc2fd/go.mod h1:BDldqheoTMmnZfXEweTXUIoJr2lPAFsEfG+uiSF6Cac=
 github.com/elazarl/goproxy/ext v0.0.0-20260730160334-3f0ac0b322e3 h1:eue4wZrOOZ50B/3VljakIsWshlVwXrXWlxFo7A6Ub2Q=
 github.com/elazarl/goproxy/ext v0.0.0-20260730160334-3f0ac0b322e3/go.mod h1:BDldqheoTMmnZfXEweTXUIoJr2lPAFsEfG+uiSF6Cac=
+github.com/elazarl/goproxy/ext v0.0.0-20260806073413-6225cd309d7c h1:ZO33sNRn0vVxRmrNG3fXrUyIiSD/QBT9EwzXdfMH+qw=
+github.com/elazarl/goproxy/ext v0.0.0-20260806073413-6225cd309d7c/go.mod h1:BDldqheoTMmnZfXEweTXUIoJr2lPAFsEfG+uiSF6Cac=
 github.com/rogpeppe/go-charset v0.0.0-20180617210344-2471d30d28b4/go.mod h1:qgYeAmZ5ZIpBWTGllZSQnw97Dj+woV0toclVaRGI8pc=
 golang.org/x/net v0.26.0 h1:soB7SVo0PWrY4vPW/+ay0jKDNScG2X9wFeYlXIvJsOQ=
 golang.org/x/net v0.26.0/go.mod h1:5YKkiSynbBIh3p6iOc/vibscux0x38BZDkn8sCUPxHE=
